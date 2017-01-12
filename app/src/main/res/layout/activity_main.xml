@@ -24,4 +24,12 @@
         android:layout_marginStart="42dp"
         android:layout_marginTop="94dp"
         android:id="@+id/boton" />
+
+    <Button
+        android:text="Hola Bobi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/boton"
+        android:id="@+id/button" />
 </RelativeLayout>
